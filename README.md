@@ -1,30 +1,50 @@
 <!-- Hero Section -->
-<div align="center" style="background: linear-gradient(135deg, #ff9a9e, #fad0c4, #fad0c4, #fbc2eb); padding: 40px; border-radius: 12px;">
-  <h1 style="color:#2d3748; font-size: 3em;">Hey, I’m <span style="color:#ff6f91;">Sneha</span> 👋</h1>
-  <p style="font-size: 1.2em; color:#4a5568;">✨ Passionate Learner • 💻 Python & Web Enthusiast ✨</p>
+<div align="center" style="background: linear-gradient(135deg, #a1c4fd, #c2e9fb, #fbc2eb, #fad0c4); padding: 50px; border-radius: 20px;">
+  <h1 style="font-size: 3em; color:#2d3748;">Hi, I’m <span style="color:#ff6f91;">Sneha</span> 👋</h1>
+  <p style="font-size: 1.2em; color:#4a5568; max-width: 600px;">
+    🌸 A curious learner exploring the world of <strong>Python, HTML, and CSS</strong>.  
+    Building small projects, improving step by step, and coding with passion ✨
+  </p>
 </div>
 
 ---
 
 ## 🧰 Tech Stack  
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 🚀 Featured Projects  
+
+- 📝 [*Portfolio Website*](#) – Personal site using HTML, CSS, and Python backend  
+- 🎨 [*CSS Mini Projects*](#) – UI components & animations  
+- 🐍 [*Python Utilities*](#) – Small tools & scripts  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ya-snehaa&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ya-snehaa&layout=compact&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ya-snehaa&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ya-snehaa&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ya-snehaa&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ya-snehaa&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ya-snehaa&theme=algolia&column=4&margin-w=10&no-frame=true" width="47%" />
+</p>
+
+---
+
+## 📆 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ya-snehaa&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -39,23 +59,15 @@
 
 ---
 
+## 👀 Visitor Counter  
+
 <p align="center">
-  <em>"Learning step by step, building with passion."</em><br/>  
-  <strong>— Sneha</strong>
+  <img src="https://komarev.com/ghpvc/?username=ya-snehaa&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
+---
 
-<!--
-**ya-snehaa/ya-snehaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>"Code. Learn. Grow. Repeat."</em><br/>  
+  <strong>— Sneha</strong>
+</p>
